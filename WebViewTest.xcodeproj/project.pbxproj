@@ -8,12 +8,14 @@
 
 /* Begin PBXBuildFile section */
 		AA2C0CC1255FE992001C0A6E /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA2C0CC0255FE992001C0A6E /* WebView.swift */; };
+		AA8C409B25605754008469EC /* WKCookieWebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA8C409A25605754008469EC /* WKCookieWebView.swift */; };
 		AAABD156255FCE0000F96D78 /* WebViewTestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAABD155255FCE0000F96D78 /* WebViewTestApp.swift */; };
 		AAABD15A255FCE0500F96D78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAABD159255FCE0500F96D78 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		AA2C0CC0255FE992001C0A6E /* WebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
+		AA8C409A25605754008469EC /* WKCookieWebView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WKCookieWebView.swift; sourceTree = "<group>"; };
 		AAABD152255FCE0000F96D78 /* WebViewTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WebViewTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAABD155255FCE0000F96D78 /* WebViewTestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewTestApp.swift; sourceTree = "<group>"; };
 		AAABD159255FCE0500F96D78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 				AAABD159255FCE0500F96D78 /* Assets.xcassets */,
 				AAABD15E255FCE0500F96D78 /* Info.plist */,
 				AA2C0CC0255FE992001C0A6E /* WebView.swift */,
+				AA8C409A25605754008469EC /* WKCookieWebView.swift */,
 			);
 			path = WebViewTest;
 			sourceTree = "<group>";
@@ -129,6 +132,7 @@
 			files = (
 				AA2C0CC1255FE992001C0A6E /* WebView.swift in Sources */,
 				AAABD156255FCE0000F96D78 /* WebViewTestApp.swift in Sources */,
+				AA8C409B25605754008469EC /* WKCookieWebView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
