@@ -86,6 +86,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1220;
 				LastUpgradeCheck = 1220;
+				ORGANIZATIONNAME = stefan.w.grossmann;
 				TargetAttributes = {
 					AAABD151255FCE0000F96D78 = {
 						CreatedOnToolsVersion = 12.2;
@@ -257,6 +258,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"WebViewTest/Preview Content\"";
+				DEVELOPMENT_TEAM = 3AU2GAZ2Z8;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = WebViewTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -278,6 +280,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"WebViewTest/Preview Content\"";
+				DEVELOPMENT_TEAM = 3AU2GAZ2Z8;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = WebViewTest/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
